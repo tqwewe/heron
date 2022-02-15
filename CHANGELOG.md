@@ -8,6 +8,14 @@ Unreleased changes (if any) can be found in the latest [release pull-request].
 [release pull-request]: https://github.com/jcornaz/heron/pulls?q=is%3Apr+is%3Aopen+label%3A%22autorelease%3A+pending%22
 
 
+### [1.1.1](https://github.com/jcornaz/heron/compare/v1.1.0...v1.1.1) (2022-02-15)
+
+
+### Documentation
+
+* **changelog:** remove reference to semver ([5cebcf3](https://github.com/jcornaz/heron/commit/5cebcf3eb0392bf8d45499e0d92903fc426d2cd3))
+* **readme:** improve some wording ([#186](https://github.com/jcornaz/heron/issues/186)) ([bc23307](https://github.com/jcornaz/heron/commit/bc233073315d85ac5b622bf6528adad1017083b1))
+
 ## [1.1.0](https://github.com/jcornaz/heron/compare/v1.0.1...v1.1.0) (2022-01-25)
 
 
